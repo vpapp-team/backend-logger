@@ -17,6 +17,8 @@
 > * log(txt, ...data)
 > * debug(txt, ...data)
 > * error(txt, ...data)
+> * logClean(...data)
+> * errorClean(...data)
 >
 > ## parameter
 > * is: object getter
